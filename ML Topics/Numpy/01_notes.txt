@@ -1,0 +1,10 @@
+NumPy - Numerical Python
+NumPy is a Python library used for numerical computations. It provides support for multi-dimensional arrays and mathematical operations.
+
+Installing NumPy
+pip install numpy
+
+Key Features of NumPy:
+Arrays: Store and manipulate large datasets efficiently.
+Mathematical Functions: Perform operations like mean, median, standard deviation, etc.
+Matrix Operations: Used in linear algebra for machine learning algorithms.

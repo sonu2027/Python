@@ -1,0 +1,8 @@
+Pandas - Data Analysis Library
+Pandas is a Python library used for data manipulation and analysis. It provides tools for:
+DataFrames: Tabular data like spreadsheets.
+Data Cleaning: Handling missing data, filtering rows, etc.
+Data Transformation: Sorting, grouping, and merging datasets.
+
+Installing Pandas
+pip install pandas
